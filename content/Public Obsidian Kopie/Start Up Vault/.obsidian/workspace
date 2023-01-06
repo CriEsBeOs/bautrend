@@ -1,0 +1,120 @@
+{
+  "main": {
+    "id": "d3c792ef65ccb527",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c884a87a2f8dfbf",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "acf0305ec35956b9",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "135654c063d518d1",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "5048e590ff83d243",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "0d3f7ad3ed1190e3",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "c23d80df8e163196",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "4ee12cc0e449de76",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "dfcbd5e216669a7f",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "82e6f176b3b9e381",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "55a3f9f9f508e3ff",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "7c884a87a2f8dfbf",
+  "lastOpenFiles": [
+    "Start Ups.md",
+    "Ultrawis.md",
+    "Zamics.md",
+    "CAD.42.md",
+    "Bauma.md",
+    "PORR Pitch Day.md",
+    "Vepa.md",
+    "Baubot.md",
+    "Rehub.md"
+  ]
+}

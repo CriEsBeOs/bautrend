@@ -1,0 +1,121 @@
+{
+  "main": {
+    "id": "ebf2f56c59f38a6c",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a5b31d76911f3c8",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8d5294b67585bdd2",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ef9bbed51b53b71f",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "ea5ead167656a6c0",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "221f5a1add615f7c",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "7f4c3a9ca2939b6f",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 1
+  },
+  "right": {
+    "id": "298cec33174779fe",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "60dbb1ddd4fd93b3",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "9fa33d3433ab9c21",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "feffcddbd9b1d9d6",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "2a5b31d76911f3c8",
+  "lastOpenFiles": [
+    "CRAHOI.md",
+    "IP Lehrstuhl.md",
+    "RWTH Aachen.md",
+    "Burkhard Corves.md",
+    "Center Construction Robotics.md",
+    "TUM.md",
+    "Interdiziplinäres Bauprozessmanagement.md",
+    "buildingSMART.md",
+    "Untitled 1.md",
+    "Untitled.md"
+  ]
+}
